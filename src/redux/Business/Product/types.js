@@ -1,0 +1,4 @@
+export const PRODUCT_RESET = 'PRODUCT_RESET';
+export const PRODUCT_LOADING = 'PRODUCT_LOADING';
+export const PRODUCT_MESSAGE = 'PRODUCT_MESSAGE';
+export const PRODUCTS = 'PRODUCTS';
